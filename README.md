@@ -1,7 +1,8 @@
 # markov-poetry
 Poetry generation using a Markov chain
 
-Based on: http://theorangeduck.com/page/17-line-markov-chain
+Based on http://theorangeduck.com/page/17-line-markov-chain
+Poetry database from https://www.kaggle.com/ultrajack/modern-renaissance-poetry
 
 Usage: The only argument is the number of words desired in the output
 ```
